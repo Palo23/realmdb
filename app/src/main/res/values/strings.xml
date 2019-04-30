@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealmDB</string>
+    <string name="guardarProfesor">Guardar</string>
+    <string name="mostrarProfesor">Mostrar Profesores</string>
+    <string name="buscarProfesor">Buscar Profesor</string>
+    <string name="buscarProfesorID">Buscar ID</string>
+</resources>
